@@ -1,0 +1,15 @@
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\bin\Debug\net6.0\64.exe
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\bin\Debug\net6.0\64.deps.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\bin\Debug\net6.0\64.runtimeconfig.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\bin\Debug\net6.0\64.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\bin\Debug\net6.0\64.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.csproj.AssemblyReference.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.AssemblyInfoInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.AssemblyInfo.cs
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\refint\64.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\64.genruntimeconfig.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\9 урок\64\obj\Debug\net6.0\ref\64.dll
